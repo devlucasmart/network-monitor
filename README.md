@@ -4,10 +4,11 @@ Este projeto é um sistema em Node.js que monitora quem acessa a mesma rede que 
 
 ## Funcionalidades
 
-- Detecta dispositivos conectados à rede local.
-- Exibe informações sobre cada dispositivo, como endereço IP e endereço MAC.
-- Monitora constantemente a rede para detectar novos dispositivos.
-- Cria um arquivo de log do dia da analise.
+- Detecta dispositivos conectados à rede local;
+- Exibe informações sobre cada dispositivo, como endereço IP e endereço MAC;
+- Monitora constantemente a rede para detectar novos dispositivos;
+- Identificar os Ips da rede no arquivo Json, onde no arquivo de log e no terminal vão ser identificados;
+- Cria um arquivo de log do dia da analise;
 
 ## Pré-requisitos
 
