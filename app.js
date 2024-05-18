@@ -2,7 +2,7 @@ const { exec } = require('child_process');
 const fs = require('fs').promises;
 const path = require('path');
 
-const knownIpsPath = path.join(__dirname, 'known_ips.json');
+const knownIpsPath = path.join(__dirname, 'list_ips.json');
 
 // Função para ler o arquivo de IPs conhecidos
 async function readKnownIps() {
