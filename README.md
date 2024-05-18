@@ -11,7 +11,7 @@ Este projeto é um sistema em Node.js que monitora quem acessa a mesma rede que 
 
 ## Pré-requisitos
 
-- Node.js (versão 12 ou superior)
+- NodeJS (versão 12 ou superior)
 - NPM (Node Package Manager)
 - `arp-scan` instalado no seu sistema
 
